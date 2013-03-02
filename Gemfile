@@ -1,6 +1,6 @@
 source "http://rubygems.org"
   gem "sinatra", '>= 0.9.2'
-  gem "haml", '~> 3.1.3'
+  gem 'haml'
   gem 'delayed_job', '> 2.0.3'
   gem 'rdoc'
 
